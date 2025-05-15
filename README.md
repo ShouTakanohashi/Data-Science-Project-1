@@ -2,8 +2,10 @@
 # README
 Shou Taknohashi
 ## 1. Purpose of the Project
+This is my first project, which demonstrates the full steup of a data sceience development environment and lays the groudndwork for long-term analytical projects.
 
 ## 2. Overview of Workflow
+
 
 ## 3. Setting Up the Development Environment
 
@@ -36,7 +38,7 @@ This project is built with setup as following:
 10. Activated the virtual environment
 11. Selected the correct kernel in VS for .ipynb notebook execution
 
-## 4. Phases
+## 4. Phases After Setting Up the Environment
 1. Dataset acquisition and import
 2. Initial cleaning and validation
 3. Exploratory Data Analysis (EDA)
