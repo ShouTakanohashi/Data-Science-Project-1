@@ -1,5 +1,17 @@
 # README
 Shou Taknohashi
+
+## Table of Contents
+
+- [1. Purpose of the Project] (#1-purpose-of-the-project)
+- [2. Overview of workflow] (#2-overview-of-workflow)
+- [3. Setting Up the Development Environment] (#3-setting-up-the-development-environment)
+    - [3.1 Tools Used] (#31-tools-used)
+    - [3.2 Steps Taken to Set Up the Environment] (#32-steps-taken-to-set-up-the-environment)
+- [4. Phases After Setting Up the Environment] (#4-phases-after-setting-up-the-environment)
+- [5. File Structure] (#5-file-structure)
+
+
 ## 1. Purpose of the Project
 This is my first project, which demonstrates the full steup of a data sceience development environment and lays the groudndwork for long-term analytical projects.
 
