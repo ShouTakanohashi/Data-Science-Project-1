@@ -1,4 +1,3 @@
-"# First commit from Miniconda" 
 # README
 Shou Taknohashi
 ## 1. Purpose of the Project
