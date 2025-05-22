@@ -58,4 +58,28 @@ This project is built with setup as following:
 6. Documentation and packaging for portfolio
 
 
+1. Dataset acquisition and import
+
+
+
+2. Initial cleaning and validation
+
+    1. First, we need to check for data types in each column and look for missing values.
+    2. We convert `Estimated Annual Emission Reduciton` column data type from object to integer.
+    3. We convert `Project Registration Date`, `Crediting Period Start Date`, and `Crediting Period End Date` into datatime type.
+    4. We standardize and encode `Project Type`, `AFOLU Activities`, `Status`, and `Region`.
+        1. We fill or drop missing values where appropriate.
+            - i.e., if `Region` is missing but `Country` is available, we may consider imputing region manually.
+    5. We may perform feature engineering when appropriate. For example:
+        1. Project duration: in years or months.
+        2. Normalized emission reduciton: per year, or per project type.
+        3. Category binning: group smaer countries or activity types into "Other."
+
+
+3. Exploratory Dadta Analysis (EDA)
+
+
+
+4. Visualizations
+
 ## 5 File Structure
