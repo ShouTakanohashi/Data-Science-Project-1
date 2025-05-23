@@ -22,6 +22,15 @@ We first focus on understanding carbon credits and carbon trading systems and an
 1. **Definition and history of carbon credit**
 
 
+
+Carbon credits have two main types:
+    1. Voluntary emissions reduction (VER)
+        - Carbon offset that is exchanged in voluntary market for credits. No third party certifying body.
+    2. Certified emissions reduction (CER)
+        - Emission units are created through a regulatory framework with the purpose of offsetting a project's emission. There are third party bodies that certifying credits.
+
+
+
 2. **Carbon trade**
 
 
@@ -103,3 +112,20 @@ This project is built with setup as following:
 While this project analyzes publicly available data on carbon credit projects, it is important to recognize the ongoing debates surrounding the carbon credit market itself. Some argue that many credits, especially avoidance-based ones, do not represent additional or durable carbon reducitons and may contribute to greenwashing.
 
 This proejct does not attempt to validate or discredit the carbon credit system as a whole. Instead, it focuses on comparing project types and analyzing regional distributions, while acknowledging that data availability, verification rigor, and market mechanisms vary significantly across projects.
+
+## 7. Sources
+
+https://interactive.carbonbrief.org/carbon-offsets-2023/timeline.html 
+
+https://climateseed.com/blog/understanding-carbon-credits 
+
+https://bezerocarbon.com/ 
+
+https://www.ceezer.earth/insights/risk-impact-carbon-market#:~:text=BeZero%20Carbon%20is%20a%20carbon,a%20growing%20number%20of%20projects.
+
+https://carboncredits.com/what-is-the-voluntary-carbon-market/ 
+
+https://carboncredits.com/how-to-invest-in-carbon-credits-carbon-etfs-and-carbon-stocks/ 
+
+https://www.nature.com/articles/s41597-022-01659-x
+
