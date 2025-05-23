@@ -82,4 +82,10 @@ This project is built with setup as following:
 
 4. Visualizations
 
-## 5 File Structure
+## 5 Findings
+
+
+## 6. Limitations.
+While this project analyzes publicly available data on carbon credit projects, it is important to recognize the ongoing debates surrounding the carbon credit market itself. Some argue that many credits, especially avoidance-based ones, do not represent additional or durable carbon reducitons and may contribute to greenwashing.
+
+This proejct does not attempt to validate or discredit the carbon credit system as a whole. Instead, it focuses on comparing project types and analyzing regional distributions, while acknowledging that data availability, verification rigor, and market mechanisms vary significantly across projects.
