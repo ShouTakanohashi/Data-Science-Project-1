@@ -12,11 +12,23 @@ Shou Taknohashi
 - [5. File Structure](#5-file-structure)
 
 
-## 1. Purpose of the Project
+## 1. **Purpose of the Project**
 This is my first project, which demonstrates the full steup of a data sceience development environment and lays the groudndwork for long-term analytical projects.
 
-## 2. Overview of Workflow
+## 2. **Literature review**
 
+We first focus on understanding carbon credits and carbon trading systems and analyze the existing work.
+
+1. **Definition and history of carbon credit**
+
+
+2. Carbon trade
+
+
+3. 
+
+
+4. Effectiveness
 
 ## 3. Setting Up the Development Environment
 
