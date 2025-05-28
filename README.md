@@ -115,6 +115,9 @@ This proejct does not attempt to validate or discredit the carbon credit system 
 
 ## 7. Sources
 
+
+### 7.1 on carbon credit
+
 https://interactive.carbonbrief.org/carbon-offsets-2023/timeline.html 
 
 https://climateseed.com/blog/understanding-carbon-credits 
@@ -128,4 +131,13 @@ https://carboncredits.com/what-is-the-voluntary-carbon-market/
 https://carboncredits.com/how-to-invest-in-carbon-credits-carbon-etfs-and-carbon-stocks/ 
 
 https://www.nature.com/articles/s41597-022-01659-x
+
+
+### 7.2 Commands
+
+https://www.ibm.com/docs/en/aix/7.2.0?topic=u-uname-command 
+- This article from IBM was used as a guide for commands in the terminal (i.e., `uname` to confirm the current operating system)
+
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd
+- This article from Microsoft was used for commands in the terminal (i.e., `cd` to change directory)
 
