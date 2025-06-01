@@ -55,6 +55,7 @@ This project is built with setup as following:
     - Jupyter
     - GitLens
     - WSL
+    - Excel Viewer, published by Mescius (formerly GrapeCity)
 
 ### 3.2 Steps Taken to Set Up the Environment
 1. Installed Ubuntu via Windows Subsystem for Linux (WSL)
