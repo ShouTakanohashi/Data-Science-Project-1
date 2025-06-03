@@ -25,7 +25,7 @@ ID,Name,Proponent,Project Type,AFOLU Activities,Methodology,Status,Country/Area,
 4526,GHG MITIGATION FROM METHANE AVOIDANCE THROUGH ORGANIC DECOMPOSITION OF WASTE,Green Cross Agritech Private Limited,"Livestock, enteric fermentation, and manure management; Waste handling and disposal",,AMS-III.F.,Withdrawn,India,241577,Asia,,10/1/2023,9/30/2033
 4510,SOIL CARBON SEQUESTRATION BY ADOPTION AND MAINTENANCE OF CLIMATE-SMART AGRICULTURE PRACTICES IN DIFFERENT CROP USE AND DEGRADED PASTURE RECUPERATION.,Agrorobotica - Photonic in Agroenvironmental Certification SA,"Agriculture Forestry and Other Land Use; Livestock, enteric fermentation, and manure management",ALM,VM0042,Rejected by Administrator,Brazil,2624400,Latin America,,1/1/2020,12/31/2026
 4492,Qixian MSW Incineration Project,"Qixian Capital Environment Energy Co., Ltd.",Energy industries (renewable/non-renewable sources); Waste handling and disposal,,ACM0022,Rejected by Administrator,China,54583,Asia,,12/8/2021,12/7/2031
-4482,Lushan MSW Incineration Project,"Lushan Capital Environment Energy Co., Ltd.",Energy industries (renewable/non-renewable sources); Waste handling and disposal,,ACM0022,Rejected by Administrator,China,60883,,,10/7/2021,10/6/2031
+4482,Lushan MSW Incineration Project,"Lushan Capital Environment Energy Co., Ltd.",Energy industries (renewable/non-renewable sources); Waste handling and disposal,,ACM0022,Rejected by Administrator,China,60883,Asia,,10/7/2021,10/6/2031
 4485,Mejuruá Project,BR ARBO GESTAO FLORESTAL S.A.,Agriculture Forestry and Other Land Use,REDD,VM0007,Registration request denied,Brazil,2736173,Latin America,,7/26/2021,7/25/2051
 4468,Weixin Urban and Rural Organic Waste Management Center in Yunnan Province,"Shanghai Yuanben Biology Science and Technology Co., Ltd.",Waste handling and disposal,,ACM0022,Withdrawn,China,184560,Asia,,12/12/2021,12/11/2031
 4462,Forestal RioAquidaban (FRA),global-woods international AG,Agriculture Forestry and Other Land Use,ARR,AR-AMS0007,Rejected by Administrator,Paraguay,4500,Latin America,,3/1/2000,2/28/2030
@@ -202,9 +202,9 @@ ID,Name,Proponent,Project Type,AFOLU Activities,Methodology,Status,Country/Area,
 3294,Muskitia Pâsa Klîn Nâka sa,Fundacion Ayuda en Acción,Agriculture Forestry and Other Land Use,REDD; WRC,VM0007,Withdrawn,Honduras,38058,Latin America,,6/17/2017,6/16/2047
 3287,WASTE TO ENERGY MANAGEMENT PROJECT BY GOVARDHANNATHJI ENERGIES LLP,GOVARDHANNATHJI ENERGIES LLP,Waste handling and disposal,,AMS-III.D.; ACM0022,Registration and verification approval request denied,India,117655,Asia,,9/2/2020,9/1/2030
 3289,AMANZI MOTO - IMPROVED COOKSTOVES DISSEMINATION PROGRAMME IN ZIMBABWE,Aither Group SA,Energy demand,,VMR0006; AMS-III.AV.,Withdrawn,Zimbabwe,574062,Africa,,6/30/2022,6/29/2032
-3270,Gveibingz Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,59055,,,,
+3270,Gveibingz Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,59055,Asia,,,
 3271,Bingznanz Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,58896,Asia,,,
-3272,Bozbwz Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,59549,,,,
+3272,Bozbwz Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,59549,Asia,,,
 3273,Gveigangj Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,58603,Asia,,,
 3274,Hinghbinh Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,59131,Asia,,,
 3275,Liujcwngz Water Management with Rice Cultivation,"Guangxi Yuebao Agriculture and Animal Husbandry Co., Ltd",Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Registration and verification approval request denied,China,59667,Asia,,,
@@ -398,15 +398,15 @@ ID,Name,Proponent,Project Type,AFOLU Activities,Methodology,Status,Country/Area,
 2310,Anhuang Afforestation Project,"Guizhou Xinzhanxin Agricultural Technology Co., Ltd.",Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,China,607596,Asia,2/11/2021,3/15/2016,3/14/2046
 2294,"Increasing pastoral farming soil carbon levels in New Zealand through appropriate soil, grassland and animal management.",eCOGENT.biz,Agriculture Forestry and Other Land Use,ALM,VM0017,Rejected by Administrator,New Zealand,13665,Oceania,,7/1/2009,6/30/2029
 1057,Guangxi Qiaogong Hydropower Project,"Guangxi Fangyuan Electric Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0001; ACM0002,Withdrawn,China,1200000,Asia,,6/1/2018,5/31/2025
-1176,System of Root Intensification (SRI) programme: Reduction of Methane emissions and water consumption in rice fields of India,Emergent Ventures India Private Limited,Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Rejected by Administrator,India,56776,,,,
+1176,System of Root Intensification (SRI) programme: Reduction of Methane emissions and water consumption in rice fields of India,Emergent Ventures India Private Limited,Agriculture Forestry and Other Land Use,ALM,AMS-III.AU,Rejected by Administrator,India,56776,Asia,,,
 1177,Jilin Da'an Dagangzi Wind Power Project Phase V,"Daan CGN Wind Power Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,81329,Asia,,4/1/2019,3/31/2026
 1178,Jilin Da' an Dagangzi Wind Power Project Phase IV,"Jilin CGN Wind Power Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,97377,Asia,,,
 1179,Gansu Tianrun Liuyuan 1st Stage 49.5MW Wind Park Project,"Guazhou Tianrun Windpower Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,108758,Asia,,,
 1246,Agricultural Soil Carbon Through Improved Grassland Management in New Zealand,Cogent Farming Business Systems Ltd,Agriculture Forestry and Other Land Use,ALM,VM0017,Rejected by Administrator,New Zealand,5970,Oceania,,7/1/2009,6/30/2029
 9,Worcester County Renewable Energy Landfill Gas Collection and Combustion Project,TerraPass,Waste handling and disposal,,ACM0001,Withdrawn,United States,104000,North America,,7/4/2018,7/3/2028
-284,"Wengyuan 20MW Hydro Power Project in Guizhou Province, China",Zhenning Yuefeng Hydro Power  Development Co. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,43650,,,,
-419,Burcbendi 27.33 MW Hydroelectric Power Plant,Akenerji Elektrik Uretim A.S,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Turkey,69281,,4/6/2020,,
-533,Feke I 29.4 MW Hydroelectric Power Plant,Akenerji Elektrik Uretim A.S,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Turkey,63999,,4/6/2020,,
+284,"Wengyuan 20MW Hydro Power Project in Guizhou Province, China",Zhenning Yuefeng Hydro Power  Development Co. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,43650,Asia,,,
+419,Burcbendi 27.33 MW Hydroelectric Power Plant,Akenerji Elektrik Uretim A.S,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Turkey,69281,Asia,4/6/2020,,
+533,Feke I 29.4 MW Hydroelectric Power Plant,Akenerji Elektrik Uretim A.S,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Turkey,63999,Asia,4/6/2020,,
 785,Bangkok Kamphaeng Saen West: Landfill Gas to Electricity Project,"Zenith Green Energy Co., Ltd",Energy industries (renewable/non-renewable sources); Waste handling and disposal,,ACM0001,Withdrawn,Thailand,246602,Asia,,,
 924,Tuppadahalli Wind Energy Project,Tuppadahalli Energy India Pvt. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,128809,Asia,4/6/2020,7/29/2018,7/28/2025
 2262,REDD+ Yaguara Llanos del Yari,CUESTA Y ASOCIADOS SAS,Agriculture Forestry and Other Land Use,,VM0015,Withdrawn,Colombia,3478764,Latin America,,,
@@ -415,47 +415,47 @@ ID,Name,Proponent,Project Type,AFOLU Activities,Methodology,Status,Country/Area,
 2087,Chudu Afforestation Project,"Xichuan Rongda Agriculture and Forestry Co., Ltd",Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,China,668883,Asia,7/21/2020,1/1/2016,12/31/2035
 2083,Liangdu Afforestation Project,"Guizhou Xinzhanxin Agricultural Technology Co., Ltd.",Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,China,336390,Asia,7/27/2020,1/1/2016,12/31/2045
 2082,Qianbei Afforestation Project,"Guizhou Xinzhanxin Agricultural Technology Co., Ltd.",Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,China,708123,Asia,8/3/2020,1/1/2016,12/31/2044
-2240,,Southern Power Company,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,United States,0,,,,
-2239,Akbas Hydroelectric Power Plant -DUPLICATE,Multiple Proponents,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,Turkey,24574,,,,
-2238,Duzce Aksu Hydro Electricity Power Plant - DUPLICATE (replaced by VCSR1815),Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Turkey,75382,,,,
-2062,West Huaybong 2 wind farm project,K.R. Two Company Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Thailand,131141,,,,
-2048,Kunming Shilin Grid-connected Solar Power Generation Project,"Huaneng Shilin Photovolt Energy Development Co.,Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,105093,,,,
+2240,,Southern Power Company,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,United States,0,North America,,,
+2239,Akbas Hydroelectric Power Plant -DUPLICATE,Multiple Proponents,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,Turkey,24574,Asia,,,
+2238,Duzce Aksu Hydro Electricity Power Plant - DUPLICATE (replaced by VCSR1815),Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Turkey,75382,Asia,,,
+2062,West Huaybong 2 wind farm project,K.R. Two Company Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Thailand,131141,Asia,,,
+2048,Kunming Shilin Grid-connected Solar Power Generation Project,"Huaneng Shilin Photovolt Energy Development Co.,Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,105093,Asia,,,
 2049,Huaneng Daqing Aobao Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,China,116600,Asia,,7/23/2019,7/22/2026
-2050,Huaneng Gansu Guazhou Ganhekou No.2 Wind Farm Project,"Huaneng Power International, Inc.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,408376,,,,
+2050,Huaneng Gansu Guazhou Ganhekou No.2 Wind Farm Project,"Huaneng Power International, Inc.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,408376,Asia,,,
 2051,1944 MW SUDAIR SOLAR PROJECT,South Pole Carbon Asset Management Ltd,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,Saudi Arabia,3374490,Middle East,,1/1/2022,12/31/2031
 2055,Shaoguan City Shaoneng Biomass Power Generation Project,"Guangdong Shaoneng Group Co.,Ltd.",Energy industries (renewable/non-renewable sources),,ACM0018,Rejected by Administrator,China,190158,Asia,7/31/2020,,
-2045,Huaneng Tuokexun Baiyanghe First Stage 49.5MW wind farm project,Huaneng Tulufan Wind Power Generation Company Ltd,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,98699,,,,
+2045,Huaneng Tuokexun Baiyanghe First Stage 49.5MW wind farm project,Huaneng Tulufan Wind Power Generation Company Ltd,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,98699,Asia,,,
 2031,ReNew Power bundled Wind Project,ReNew Power Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,India,984764,Asia,,8/21/2018,8/20/2028
 2032,300 MW Solar Project by Avaada in Gujarat (India),Avaada Sunrise Energy Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,India,512196,Asia,,10/19/2020,10/18/2030
 2034,IBRI II Solar Independent Power Project,Shams Ad-Dhahira Generating Company SAOC,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,Oman,1125184,Middle East,,6/1/2021,5/31/2031
-2035,Solar Power Project by Renew Solar Power Private Limited,ReNew Solar Power Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,758268,,,,
-2022,Huaneng Daqing Wukeshu Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115536,,,,
-2025,Huaneng Tuokexun Baiyanghe Third Stage 49.5MW Wind Farm Project,Huaneng Tulufan Wind Power Generation Company Ltd,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,94121,,,,
-2028,100 MW Solar Project by Avaada in UP (India),Avaada Non-Conventional UPProject Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,185303,,,,
-2029,Huaneng Daqing Heping Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115860,,,,
-2030,Huaneng Daqing Xinli Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115397,,,,
+2035,Solar Power Project by Renew Solar Power Private Limited,ReNew Solar Power Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,758268,Asia,,,
+2022,Huaneng Daqing Wukeshu Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115536,Asia,,,
+2025,Huaneng Tuokexun Baiyanghe Third Stage 49.5MW Wind Farm Project,Huaneng Tulufan Wind Power Generation Company Ltd,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,94121,Asia,,,
+2028,100 MW Solar Project by Avaada in UP (India),Avaada Non-Conventional UPProject Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,185303,Asia,,,
+2029,Huaneng Daqing Heping Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115860,Asia,,,
+2030,Huaneng Daqing Xinli Wind Farm Project,"Daqing Lvyuan Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115397,Asia,,,
 2009,Renewable Energy Generation at Hamira,Enen Green Services Private Limited,Energy industries (renewable/non-renewable sources),,AMS-I.C.,Rejected by Administrator,India,116832,Asia,,6/30/2015,6/29/2025
-2010,Fujian Pucheng IFM (conversion of logged to protected forest) Project,"Zhejiang Zhongtuo Environmental Technology Development Co.,Ltd",Agriculture Forestry and Other Land Use,,VM0010,Withdrawn,China,266253,,,,
-2011,Huaneng Liaoning Fuxin Phase II Wind Farm Project,"Huaneng New Energy Industrial Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,659993,,,,
-2012,Liaoning Fuxin Gaoshanzi 100.5MW Wind Power Project,"Huaneng New Energy Industrial Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,220542,,,,
-2013,Jilin Tongyu Huaneng 100.5MW Wind Power Project,"Huaneng New Energy Industrial Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,253287,,,,
-2015,Renewable Solar Photovoltaic Project by ACME Group,ACME Cleantech Solutions Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,3906661,,,,
+2010,Fujian Pucheng IFM (conversion of logged to protected forest) Project,"Zhejiang Zhongtuo Environmental Technology Development Co.,Ltd",Agriculture Forestry and Other Land Use,,VM0010,Withdrawn,China,266253,Asia,,,
+2011,Huaneng Liaoning Fuxin Phase II Wind Farm Project,"Huaneng New Energy Industrial Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,659993,Asia,,,
+2012,Liaoning Fuxin Gaoshanzi 100.5MW Wind Power Project,"Huaneng New Energy Industrial Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,220542,Asia,,,
+2013,Jilin Tongyu Huaneng 100.5MW Wind Power Project,"Huaneng New Energy Industrial Co., Ltd",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,253287,Asia,,,
+2015,Renewable Solar Photovoltaic Project by ACME Group,ACME Cleantech Solutions Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,3906661,Asia,,,
 2006,West Huaybong 3 wind farm project,First Korat Wind Company Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,Thailand,139035,Asia,,,
-1984,"40 MW Bundled Solar Project in Telangana, India",Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,79241,,,,
+1984,"40 MW Bundled Solar Project in Telangana, India",Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,79241,Asia,,,
 1978,"Malleco, Lomas de Duqueco and Negrete Wind Project, Chile",Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,Chile,699147,Latin America,,1/1/2021,12/31/2030
 1973,Huaneng Tongyu Tuanjie Phase E Wind Farm Project,"Huaneng Jilin Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,China,103905,Asia,,7/1/2020,6/30/2027
-1966,Huaneng Gansu Huajialing 49.5MW Wind Power Project,"Huaneng Huajialing Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,91046,,,,
-1951,HUANENG CHANGTU TAIPING WIND FARM PROJECT,"Huaneng Changtu Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,102738,,,,
-1952,Huaneng Tongyu Tuanjie Phase A Wind Farm Project,"Huaneng Jilin Power Generation Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,96208,,,,
-1942,Renewable Solar Power Project by Hero Future Energies,Hero Future Energies Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,601957,,,,
+1966,Huaneng Gansu Huajialing 49.5MW Wind Power Project,"Huaneng Huajialing Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,91046,Asia,,,
+1951,HUANENG CHANGTU TAIPING WIND FARM PROJECT,"Huaneng Changtu Wind Power Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,102738,Asia,,,
+1952,Huaneng Tongyu Tuanjie Phase A Wind Farm Project,"Huaneng Jilin Power Generation Co., Ltd.",Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,96208,Asia,,,
+1942,Renewable Solar Power Project by Hero Future Energies,Hero Future Energies Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,601957,Asia,,,
 1930,Henan Nanzhao Afforestation Project,"Beijing Pingtouge Forestry Carbon Technology Development Co.,Ltd",Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,China,493806,Asia,5/27/2020,10/20/2014,10/19/2074
-1922,Amasya Solar Power Project,Neptun Enerji A.S.,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,Turkey,9356,,,,
+1922,Amasya Solar Power Project,Neptun Enerji A.S.,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,Turkey,9356,Asia,,,
 1924,Tokat Solar Power Project,Bahceli Enerji A.S.,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,Turkey,4765,Asia,,10/19/2017,10/18/2027
-1874,Zhangjiakou Chabei Wind Farm Project,Credits transferred from approved GHG program,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,203090,,,,
+1874,Zhangjiakou Chabei Wind Farm Project,Credits transferred from approved GHG program,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,203090,Asia,,,
 1855,Hechu Afforestation Project in Anhui Province,"Hefei Zhuoya Landscaping Engineering Co., Ltd.",Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,China,469187,Asia,6/4/2020,4/22/2014,4/21/2034
 1843,100 MW SOLAR BY GIRIRAJ RENEWABLES PVT. LTD.- SATARA.,Giriraj Renewables Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,135329,Asia,,4/16/2018,4/15/2028
-1845,30 MW SOLAR BY AVAADA SUSTAINABLE ENERGY PVT LTD – HANAGAL.,Avaada Sustainable Energy Pvt. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,43825,,,,
-1846,30 MW SOLAR BY SOLARSYS NON CONVENTIONAL ENERGY PVT. LTD. - BANAVIKAL.,Solarsys Non conventional Energy Pvt. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,43825,,,,
+1845,30 MW SOLAR BY AVAADA SUSTAINABLE ENERGY PVT LTD – HANAGAL.,Avaada Sustainable Energy Pvt. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,43825,Asia,,,
+1846,30 MW SOLAR BY SOLARSYS NON CONVENTIONAL ENERGY PVT. LTD. - BANAVIKAL.,Solarsys Non conventional Energy Pvt. Ltd.,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,43825,Asia,,,
 1834,60 MW Solar by Solarsys Non Conventional Energy Pvt. Ltd. - Ilkal.,WeAct Pty Ltd,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,87651,Asia,,3/31/2018,3/30/2028
 1821,Conservación de los Ecosistemas y el Almacén de Carbono Región de Transición Guayano Amazónica 'Flor de Inírida',Ciprogress Greenlife,Agriculture Forestry and Other Land Use,REDD,VM0007,Withdrawn,Colombia,7627523,Latin America,,1/1/2017,12/31/2116
 1819,"19.2 MWp Solar Power Project by HZL at Debari and Dariba, Rajasthan",Hindustan Zinc Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,India,23859,Asia,10/17/2019,3/25/2017,3/24/2027
@@ -481,16 +481,16 @@ ID,Name,Proponent,Project Type,AFOLU Activities,Methodology,Status,Country/Area,
 1139,"15 MW Wind energy farm at Gopalpura, Karnataka by HZL",Hindustan Zinc Limited,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,India,31875,Asia,4/6/2020,,
 1536,Grid Connected Solar Power Project at Rajasthan by Roha Dychem Private Limited,Roha Dyechem Private Limited,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,India,41082,Asia,,9/30/2015,9/29/2025
 783,Bangkok Kamphaeng Saen East: Landfill Gas to Electricity Project,"Bangkok Green Power Co., Ltd.",Energy industries (renewable/non-renewable sources); Waste handling and disposal,,ACM0001,Withdrawn,Thailand,273086,Asia,,,
-1162,Jiangxi Province Le'an County Forest Farm Carbon Sink Project,"Beijing Shengdahuitong Carbon Management Co.,Ltd.",Agriculture Forestry and Other Land Use,IFM,VM0010,Rejected by Administrator,China,86680,,4/6/2020,1/1/2006,12/31/2035
+1162,Jiangxi Province Le'an County Forest Farm Carbon Sink Project,"Beijing Shengdahuitong Carbon Management Co.,Ltd.",Agriculture Forestry and Other Land Use,IFM,VM0010,Rejected by Administrator,China,86680,Asia,4/6/2020,1/1/2006,12/31/2035
 1062,FOUM EL OUED WIND FARM PROJECT,Energie Eolienne du Maroc,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Morocco,141991,Africa,,,
 1233,Reforestation with Rubber on degraded lands of Colombia,NACOBENA SAS,Agriculture Forestry and Other Land Use,ARR,AR-ACM0003,Withdrawn,Colombia,38946,Latin America,8/26/2020,12/20/2011,12/19/2046
 902,KARIBA REDD+ PROJECT,Carbon Green Investments (Guernsey),Agriculture Forestry and Other Land Use,ARR; REDD,VM0009,Withdrawn,Zimbabwe,6550464,Africa,6/4/2020,7/1/2011,6/30/2041
-1460,Artvin Hydroelectric Power Plant,DOGUS ENERJI URETIM VE TICARET A.S.,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,Turkey,520370,,,1/1/2016,12/31/2025
+1460,Artvin Hydroelectric Power Plant,DOGUS ENERJI URETIM VE TICARET A.S.,Energy industries (renewable/non-renewable sources),,ACM0002,Rejected by Administrator,Turkey,520370,Asia,,1/1/2016,12/31/2025
 1359,Isangi REDD+ Project,"SAFBOIS, SPRL",Agriculture Forestry and Other Land Use,REDD,VM0006,Withdrawn,"Congo, The Democratic Republic of The",324534,Africa,4/6/2020,9/12/2009,9/11/2039
-1434,Forestry Project “More Forests for Medellin”,Secretaría del Medio Ambiente del Municipio de Medellín,Agriculture Forestry and Other Land Use,,AR-ACM0003,Withdrawn,Colombia,1781,,4/6/2020,,
+1434,Forestry Project “More Forests for Medellin”,Secretaría del Medio Ambiente del Municipio de Medellín,Agriculture Forestry and Other Land Use,,AR-ACM0003,Withdrawn,Colombia,1781,Latin America,4/6/2020,,
 2177,failed,MER,Agriculture Forestry and Other Land Use,,VM0007,Withdrawn,Madagascar,1267231,Africa,2/13/2014,,
-2166,Chongqing Youyang County Youchou Hydropower Station Project,Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,334000,,,,
-2162,"2 x 3.5 MW Ullunkal Hydro Power Project in Kerala, India",Multiple Proponents,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,India,16125,,,,
-2157,BAESA Project `,MER,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Brazil,318793,,3/6/2012,,
-2136,cancelled duplicate of VCSR218,MER,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115912,,9/25/2013,,
-2126,7.3 MW Bundled Wind Power Project by Oswal Cables,Oswal Cables Private Limted,Manufacturing industries,,ACM0002,Withdrawn,India,14832,,,,
+2166,Chongqing Youyang County Youchou Hydropower Station Project,Multiple Proponents,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,334000,Asia,,,
+2162,"2 x 3.5 MW Ullunkal Hydro Power Project in Kerala, India",Multiple Proponents,Energy industries (renewable/non-renewable sources),,AMS-I.D.,Withdrawn,India,16125,Asia,,,
+2157,BAESA Project `,MER,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,Brazil,318793,Latin America,3/6/2012,,
+2136,cancelled duplicate of VCSR218,MER,Energy industries (renewable/non-renewable sources),,ACM0002,Withdrawn,China,115912,Asia,9/25/2013,,
+2126,7.3 MW Bundled Wind Power Project by Oswal Cables,Oswal Cables Private Limted,Manufacturing industries,,ACM0002,Withdrawn,India,14832,Asia,,,
